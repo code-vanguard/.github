@@ -14,9 +14,3 @@
 <p align="center">
   Code Vanguard is a space for developers to stay at the forefront of tech, learn, discuss, and grow their skills.
 </p>
-
-&nbsp;
-
-<p align="center">
-  Join our community!
-</p>
